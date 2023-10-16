@@ -8,7 +8,7 @@ package week04_branching;
  *
  * @author Vitvarova-J-31c9
  */
-public class Cv3Ukol3 {
+public class U03CirclePointPosition {
 
     public static void main(String[] args) {
 

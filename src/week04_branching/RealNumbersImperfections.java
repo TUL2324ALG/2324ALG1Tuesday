@@ -8,7 +8,7 @@ package week04_branching;
  *
  * @author Vitvarova-J-31c9
  */
-public class NewMain {
+public class RealNumbersImperfections {
 
     /**
      * @param args the command line arguments

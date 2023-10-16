@@ -1,6 +1,6 @@
 package week04_branching;
 
-public class Divisibility {
+public class U02Divisibility {
 
     public static void main(String[] args) {
         int a = 5;

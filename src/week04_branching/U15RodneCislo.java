@@ -1,6 +1,6 @@
 package week04_branching;
 
-public class RodneCislo {
+public class U15RodneCislo {
 
     public static void main(String[] args) {
     //vstup
