@@ -71,6 +71,17 @@ testovat podle hlavní diagonály, podle vedlejší diagonály, dle vertikální
         }
         return true;
     }
+    
+    public static boolean horizontalSymetry(int[][] a){
+        for (int i = 0; i < (a.length/2); i++) {
+            for(int j = 0; j < a[i].length; j++){
+                if(a[i][j] != a[a.length-1-i][j]){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
 
     public static boolean testStochasticMatrix(double[][] test) {
         double sum;
