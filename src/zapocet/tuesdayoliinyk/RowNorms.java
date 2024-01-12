@@ -1,5 +1,5 @@
 
-package zapocet.Tuesday_Oliinyk;
+package zapocet.tuesdayoliinyk;
 
 import java.util.Scanner;
 
