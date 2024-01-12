@@ -4,11 +4,7 @@
  */
 package friday;
 
-/**
- *
- * @author Vitvarova-J-31c9
- */
-public class NewMain {
+public class Main {
 
     /**
      * @param args the command line arguments
